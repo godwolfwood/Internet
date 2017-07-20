@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+#banner{
+    background-color: red;
+}
+#side_content{
+    background-color: blue;
+    display: inline-block;
+    width:20%;
+}
+#main_content{
+    background-color: grey;
+    width: 68%;
+}
+#phone_content{
+    background-color: green;
+}
+#big_3{
+    background-color: yellow;
+}
